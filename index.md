@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## 别看了，请直接电话联系17821621190我这有趣的灵魂
 
+Do not waste time here. Call me right now by phone +86 17821621190
 You can use the [editor on GitHub](https://github.com/shawnkee/shawnkee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
